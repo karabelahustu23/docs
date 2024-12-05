@@ -2,3 +2,6 @@ artifacts:
   qwerqwer:
     path: qwerqwer
     type: model
+  qqqq:
+    path: qqqq
+    type: model
